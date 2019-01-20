@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://emasson-maxx.github.io"
-baseurl: ""
+baseurl: "maxxdesktop"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: MaXX Interactive Desktop
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Welcome to anything Linux SGI Desktop related 
 
 # --- Navigation bar options --- #
 
@@ -73,9 +73,9 @@ author:
 social-network-links:
   rss: true
   email: "eric.masson@maxxinteractive.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: maxxdesktop
+  github: emasson-maxx
+  twitter: maxxdesktop
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MaXX Interactive Desktop (dot) com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -156,7 +156,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Montreal"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
