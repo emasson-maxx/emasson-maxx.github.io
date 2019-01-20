@@ -5,13 +5,15 @@ subtitle: Here's the short version...
 ---
 
 # Who am I?
-My name is Eric Masson.
+My name is Eric Masson and...
 
-- I am the proud father of four and grand dad of two :)
-- I love and raced American muscle car. I am a Mustang fanatic and consider myself a gear head
-- I am a proud Canadian born in Quebec City and currently leaving in Montreal
+- I am the proud father of four and grand dad of two already :)
+- Canadian born in Quebec City and currently leaving in Montreal
+- Started programming in 1979 on a VIC 20 and never looked back
+- I love American muscle car. I am a Mustang fanatic and consider myself a gear head
 - I was lucky enough to travel the world and work overseas for more than 10 years
 - I speak several languages and love Asian cultures
+- I am passionate about space exploration, astrophysics, mysteries of the Universe and starting to dive into Quantum computing
 - I love electronic music to the point of making my own and djing in clubs and after-hours. soundcloud.com/ameza
 - I had the privilege to work with SGI and help companies on SGI products and various interactive computer graphic technologies for visual simulation and high performance computing
 - My love and passion for SGI and 3D started with Daniel Langlois's SoftImage, and the rest is history.
@@ -32,4 +34,5 @@ Eric Masson has worked in Hong Kong for over nine (9) years at first for the mas
 
 # MaXX Interactive Desktop
 
-I am the creator and author of the MaXX Interactive Desktop, aka the SGI Desktop on Linux.  I basically wrote and adapted existing technology to recreate the SGI Desktop on Linux.  I was given (in early 2000s) a special license from SGI that allowed me to pursue my passion and without getting in trouble with SGI's lawyers.  The license in a nutshell allows me to duplicate the entire desktop user experience, re-implement (by myself) the required SGI APIs and duplicate the SGI look and feel.  As of today, I must comply to some rules established and agreed between SGI and myself...  The desktop is limited to Linux operating system, and I cannot release some of my source code.  
+I am the creator and author of the MaXX Interactive Desktop, aka the SGI Desktop on Linux.  I basically wrote and adapted existing technology to recreate the SGI Desktop on Linux.  I was given (in early 2000s) a special license from SGI that allowed me to pursue my passion and without getting in trouble with SGI's lawyers.  The license in a nutshell allows me to duplicate the entire desktop user experience, re-implement (by myself) the required SGI APIs and duplicate the SGI look and feel.  As of today, I must comply to some rules established and agreed between SGI and myself...  The desktop is limited to Linux operating system, and I cannot release some of my source code. 
+
