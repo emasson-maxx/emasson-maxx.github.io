@@ -1,17 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Here's the short version...
 ---
 
 # Who am I?
 My name is Eric Masson.
 
-- I love and used to race American muscle car (mustangs)
+- I am the proud father of four and grand dad of two :)
+- I love and raced American muscle car. I am a Mustang fanatic and consider myself a gear head
+- I am a proud Canadian born in Quebec City and currently leaving in Montreal
 - I was lucky enough to travel the world and work overseas for more than 10 years
-- I speak several languages
+- I speak several languages and love Asian cultures
 - I love electronic music to the point of making my own and djing in clubs and after-hours. soundcloud.com/ameza
-- I had the privilege to work and help companies on SGI products and various interactive computer graphic technologies for visual simulation and high performance computing
+- I had the privilege to work with SGI and help companies on SGI products and various interactive computer graphic technologies for visual simulation and high performance computing
 - My love and passion for SGI and 3D started with Daniel Langlois's SoftImage, and the rest is history.
 - I love anything 3D/VR/AR/MR related and I still enjoy doing 3D modeling with Blender and writing cool stuff on the Unity platform.
 
