@@ -34,5 +34,9 @@ Eric Masson has worked in Hong Kong for over nine (9) years at first for the mas
 
 # MaXX Interactive Desktop
 
-I am the creator and author of the MaXX Interactive Desktop, aka the SGI Desktop on Linux.  I basically wrote and adapted existing technology to recreate the SGI Desktop on Linux.  I was given (in early 2000s) a special license from SGI that allowed me to pursue my passion and without getting in trouble with SGI's lawyers.  The license in a nutshell allows me to duplicate the entire desktop user experience, re-implement (by myself) the required SGI APIs and duplicate the SGI look and feel.  As of today, I must comply to some rules established and agreed between SGI and myself...  The desktop is limited to Linux operating system, and I cannot release some of my source code. 
+I am the creator and author of the MaXX Interactive Desktop, aka the SGI Desktop on Linux.  I basically wrote and adapted existing technology to recreate the SGI Desktop on Linux.  I was given (in early 2000s) a special license from SGI that allowed me to pursue my passion and without getting in trouble with SGI's lawyers.  The license in a nutshell allows me to duplicate the entire desktop user experience, re-implement (by myself) the required SGI APIs and duplicate the SGI look and feel. 
+
+As of today, I must comply to some rules established and agreed between SGI and myself.  The desktop is limited to Linux (intel) operating system, and I cannot release some of my source code in order to protect some of SGI's intellectual property.
+Having said that, I wish at some point to change that and support OpenBSD and ARM based Linux with, of course the consent of whom controls/owns those IPs.
+
 
