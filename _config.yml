@@ -25,10 +25,10 @@ description: Welcome to anything Linux SGI Desktop related
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Facebook: "https://www.facebook.com/maxxdesktop/"
+    - Twitter: "https://twitter.com/maxxdesktop?lang=en"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Licensing: "https://emasson-maxx.github.io/licensing.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
