@@ -8,7 +8,7 @@ subtitle: Here's the short version...
 My name is Eric Masson and...
 
 - I am the proud father of four and grand dad of two already :)
-- Canadian currently leaving in Montreal
+- Canadian living in Montreal
 - Started programming on a Commodore VIC-20(in 1980) and never looked back. Learned 6502 as Basic was too limited for graphic and extended it to a whooping 32Kb
 - I love American muscle car. I am a big Mustang fan and consider myself a gear head
 - I was lucky enough to travel the world and work overseas for more than 10 years
@@ -23,7 +23,7 @@ What else do you need?
 
 # Here's my 'official & corporate' profile
 
-Eric Masson has established a solid reputation for himself in the fields of modern mission critical system delivery, SAP integration and Interactive Computer Graphics. Eric Masson brings extensive expertise associated with in depth software development knowledge, technical team leading/mentoring and international business affairs guarantying success!
+Eric Masson has established a solid reputation for himself in the fields of modern mission critical system delivery, SAP integration and Interactive Computer Graphics. Eric Masson brings extensive expertise associated with in depth software development knowledge, technical team leading/mentoring and international business affairs guaranteeing success!
 
 Among the strengths of Eric Masson are a solid 23+ years of Java Enterprise Class Technologies, 20+ years in Enterprise level messaging technology, 25+ years of direct experience in pioneering real-time 3D computer graphics on SGI, OpenGL/X11/Motif/Qt.
 
