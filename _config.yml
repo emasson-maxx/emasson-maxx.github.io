@@ -27,7 +27,8 @@ navbar-links:
   Resources:
     - Facebook: "https://www.facebook.com/maxxdesktop/"
     - Twitter: "https://twitter.com/maxxdesktop?lang=en"
-    - GitHub Pages: "https://pages.github.com/"
+    - GitHub Repos: "https://github.com/emasson-maxx"
+    - Downloads : "http://maxxdesktop.arcadedaydream.com/Indigo-Releases/"
     - Licensing: "https://emasson-maxx.github.io/licensing.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
