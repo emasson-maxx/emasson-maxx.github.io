@@ -10,7 +10,7 @@ My name is Eric Masson and...
 - I am the proud father of four and grand dad of two already :)
 - Canadian living in Montreal
 - Started programming on a Commodore VIC-20(in 1980) and never looked back. Learned 6502 as Basic was too limited for graphic and extended it to a whooping 32Kb
-- I love American muscle car. I am a big Mustang fan and consider myself a gear head
+- I love American muscle cars, but deep down I am a big Mustang fan and consider myself a gear head
 - I was lucky enough to travel the world and work overseas for more than 10 years
 - I speak several languages and love Asian cultures
 - I am passionate about space exploration, astrophysics, mysteries of the Universe and slowly diving into Quantum computing
